@@ -1,2 +1,3 @@
 # MUX
-Multiplexores de la uni
+Multiplexores ej de la uni en python.
+sin risas.
